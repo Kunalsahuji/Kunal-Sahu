@@ -133,8 +133,13 @@ Sleek and modern front-end site using HTML/CSS with hover effects.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Kunalsahuji&icon=0&color=0)](https://visitcount.itsvg.in)
+## Total Contributions
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunalsahuji&" alt="kunal-sahu" /></p>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Kunalsahuji&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 ---
 ## 📢 Ongoing Series: Daily Full Stack LinkedIn Posts
 
