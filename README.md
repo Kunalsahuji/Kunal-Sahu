@@ -94,7 +94,7 @@ Sleek and modern front-end site using HTML/CSS with hover effects.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kunal-sahu-7688ba1b0/)  
 - 💻 [GitHub](https://github.com/Kunalsahuji/Kunal-Sahu)  
 - 📷 [Instagram](https://www.instagram.com/kunal_babita_sahu/)  
-- 📄 [Resume](https://drive.google.com/file/d/1wDnDYgJ_O0RZ6uxsJI7m7EsZM6ywUmqF/view?usp=sharing)  
+- 📄 [Resume]([https://drive.google.com/file/d/1wDnDYgJ_O0RZ6uxsJI7m7EsZM6ywUmqF/view?usp=sharing](https://drive.google.com/file/d/10r8rQcWWgbV1B5jGiLELiaPkIL3w8c5w/view?usp=sharing))  
 - 🧠 [Notion Portfolio](https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)
 
 ---
